@@ -1,36 +1,36 @@
 [{
 "Nama obat" : "OBH Combi",
 "Harga" : 10000,
-"Fungsi" : "Obat untuk meredakan flu ringan dan sakit kepala"
+"Fungsi" : "Obat untuk meredakan flu ringan dan sakit kepala",
 "Gambar" : "https://d2qjkwm11akmwu.cloudfront.net/products/images/5387.jpg"
 },
 {
 "Nama obat" : "Dentasol",
 "Harga" : 5000,
-"Fungsi" : "untuk meredakan gejala flu"
+"Fungsi" : "untuk meredakan gejala flu",
 "Gambar" : "https://d2qjkwm11akmwu.cloudfront.net/products/811272_6-5-2019_9-1-23.jpg"
 },
 {
 "Nama obat" : "Decolgen",
 "Harga" : 4500,
-"Fungsi" : "untuk meredakan gejala flu"
+"Fungsi" : "untuk meredakan gejala flu",
 "Gambar" : "https://d2qjkwm11akmwu.cloudfront.net/products/467867_7-2-2020_16-22-18.jpg"
 },
 {
 "Nama obat" : "Combantrin syrup",
 "Harga" : 20000,
-"Fungsi" : "Obat cacing"
+"Fungsi" : "Obat cacing",
 "Gambar" : "https://d2qjkwm11akmwu.cloudfront.net/products/images/9387.jpg"
 },
 {
 "Nama obat" : "Mextril",
 "Harga" : 19000,
-"Fungsi" : "Obat Batuk berdahak"
+"Fungsi" : "Obat Batuk berdahak",
 "Gambar" : "https://kalcare.s3-ap-southeast-1.amazonaws.com/moch4/uploads/product/14741/14741_1638328379.9877.jpg"
 },
 {
 "Nama obat" : "Neozep",
 "Harga" : 23000,
-"Fungsi" : "Obat flu disertai sakit kepala"
+"Fungsi" : "Obat flu disertai sakit kepala",
 "Gambar" : "https://d2qjkwm11akmwu.cloudfront.net/products/597862_22-9-2021_10-32-54.png"
 }]
