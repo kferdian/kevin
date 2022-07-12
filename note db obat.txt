@@ -1,0 +1,30 @@
+[{
+"Nama obat" : "OBH Combi",
+"Harga" : 10000,
+"Fungsi" : "Obat untuk meredakan flu ringan dan sakit kepala"
+},
+{
+"Nama obat" : "Dentasol",
+"Harga" : 5000,
+"Fungsi" : "untuk meredakan gejala flu"
+},
+{
+"Nama obat" : "Decolgen",
+"Harga" : 4500,
+"Fungsi" : "untuk meredakan gejala flu"
+},
+{
+"Nama obat" : "Combantrin syrup",
+"Harga" : 20000,
+"Fungsi" : "Obat cacing"
+},
+{
+"Nama obat" : "Mextril",
+"Harga" : 19000,
+"Fungsi" : "Obat Batuk berdahak"
+},
+{
+"Nama obat" : "Neozep",
+"Harga" : 23000,
+"Fungsi" : "Obat flu disertai sakit kepala"
+}]
